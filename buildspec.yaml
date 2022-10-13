@@ -1,0 +1,9 @@
+version: 0.2
+
+phases:
+
+  build:
+   
+    commands:
+     - eco Entered the Build phase . . . 
+     - eco Build started on date
